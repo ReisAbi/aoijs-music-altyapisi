@@ -1,0 +1,21 @@
+{
+    "name": "BukeleR",
+    "version": "1.0.0",
+    "description": "BukeleR Music Altyapısı",
+    "main": "BukeleR.js",    
+    "scripts": {
+      "start": "node BukeleR.js"   
+    },
+    "engines": {
+      "node": "16.x"
+    },
+    "author": "",
+    "license": "ISC",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.5.0",
+    "discord.js": "^12.5.2",
+    "opusscript": "^0.0.8"
+  }
+}
